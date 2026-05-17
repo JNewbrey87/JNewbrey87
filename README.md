@@ -14,7 +14,7 @@ and commercial enterprise IT.
 ## Research
 
 I developed the **Cloud Forensic Readiness and Preservation Framework (CFRPF)** as part
-of my master's thesis — a 38-principle architecture addressing AI auditability,
+of my master's thesis: a 38-principle architecture addressing AI auditability,
 evidentiary integrity, and forensic readiness in cloud and hybrid enterprise environments.
 Targeted for peer-reviewed publication across digital forensics, cloud security,
 and governance law venues.
