@@ -1,16 +1,26 @@
-## Hi there 👋
+# Joshua E. Newbrey
 
-<!--
-**JNewbrey87/JNewbrey87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Infrastructure Engineer in a regulated banking environment (GLBA, FFIEC, PCI-DSS),
+working toward Cloud Security Analyst and ultimately Cloud Security Architect.
+Disabled Veteran with a background spanning DoD contracting (DISA, CBP, USN, USAF)
+and commercial enterprise IT.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Completing MSIT in Digital Forensics (expected August 2026)
+- Cert pipeline: CompTIA Security+ (active) | SC-200 | CySA+ | AZ-500
+- Building cloud security depth in Microsoft Azure and hybrid enterprise environments
+
+## Research
+
+I developed the **Cloud Forensic Readiness and Preservation Framework (CFRPF)** as part
+of my master's thesis — a 38-principle architecture addressing AI auditability,
+evidentiary integrity, and forensic readiness in cloud and hybrid enterprise environments.
+Targeted for peer-reviewed publication across digital forensics, cloud security,
+and governance law venues.
+
+See the [CFRPF repository](https://github.com/JNewbrey87/CFRPF) for more detail.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jnewbrey87/)
