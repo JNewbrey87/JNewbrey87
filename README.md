@@ -1,10 +1,11 @@
-# Joshua E. Newbrey
+# Joshua E. Newbrey<br> <sup><sub>*DISABLED VETERAN*</sub></sup>
 
-I'm an IT Infrastructure Engineer working in a regulated banking environment (GLBA, FFIEC, PCI-DSS), building toward Cloud Security Analyst and eventually Cloud Security Architect. I'm a disabled veteran with experience across DoD contracting (DISA, CBP, USN, USAF) and commercial enterprise IT, and I've spent the last several years moving deliberately toward cloud security as a specialty.
+I'm a cloud and infrastructure security professional with experience supporting complex enterprise environments across DoD contracting (DISA, CBP, USN, USAF), federal, banking, and commercial enterprise environments. I'm currently focused on Identity Governance, Infrastructure Hardening, Detection Engineering, Cloud Security, and compliance frameworks including GLBA, FFIEC, PCI-DSS, and NIST. My background pairs that technical foundation with over a decade of USAF service in Security and MIssion-Critical operations, bringing operational discipline and Security-First decision-making in every environment I support.
 
 ## What I'm Working On
 
 - Finishing my MSIT in Digital Forensics (expected August 2026)
+  - [Thesis under committee review]
 - Cert pipeline: CompTIA Security+ (active) | SC-200 | CySA+ | AZ-500
 - Building cloud security depth in Microsoft Azure and hybrid enterprise environments
 - Documenting lab work and study artifacts in [cloud-security-lab-notes](https://github.com/JNewbrey87/cloud-security-lab-notes)
