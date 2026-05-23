@@ -9,7 +9,7 @@ I'm a cloud and infrastructure security professional with experience supporting 
 
 ## What I'm Building
 
-I'm completing an MSIT in Digital Forensics (expected August 2026) and working through the SC-200, CySA+, and AZ-500 cert pipeline. Hands-on lab work is documented in [cloud-security-lab-notes](https://github.com/JNewbrey87/cloud-security-lab-notes): KQL queries from Sentinel lab sessions, Azure Policy definitions, GRC toolkit assessments against SOC 2 and GLBA frameworks, and structured study notes. Starting in August 2026, that repository expands to cover eight sequential Azure security projects spanning SIEM deployment, detection engineering, Zero Trust architecture, IaC with Bicep, and threat modeling.
+I'm completing an MSIT in Digital Forensics (my Thesis is under committee review, conferral expected August 2026) and working through the SC-200, CySA+, and AZ-500 cert pipeline. Hands-on lab work is documented in [cloud-security-lab-notes](https://github.com/JNewbrey87/cloud-security-lab-notes): KQL queries from Sentinel lab sessions, Azure Policy definitions, GRC toolkit assessments against SOC 2 and GLBA frameworks, and structured study notes. Starting in August 2026, that repository expands to cover eight sequential Azure security projects spanning SIEM deployment, detection engineering, Zero Trust architecture, IaC with Bicep, and threat modeling.
 
 ## Research
 
