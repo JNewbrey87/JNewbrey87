@@ -5,7 +5,7 @@
 ![CySA+](https://img.shields.io/badge/CySA%2B-Aug_2026-lightgrey?style=flat-square)
 ![AZ-500](https://img.shields.io/badge/AZ--500-In_Progress-blue?style=flat-square&logo=microsoftazure&logoColor=white)
 
-I'm a cloud and infrastructure security professional with experience supporting complex enterprise environments across DoD contracting (DISA, CBP, USN, USAF), federal, banking, and commercial enterprise environments; including over a decade of U.S. Air Force service as a Disabled Veteran. My background spans physical security, IT operations, and infrastructure engineering; I'm now specializing in cloud security with a focus on detection engineering, compliance frameworks, and hybrid Azure environments.
+I'm a cloud and infrastructure security professional with experience supporting complex enterprise environments across DoD contracting (DISA, CBP, USN, USAF), federal, banking, and commercial enterprise environments; including over a decade of U.S. Air Force. My background spans physical security, IT operations, and infrastructure engineering; I'm now specializing in cloud security with a focus on detection engineering, compliance frameworks, and hybrid Azure environments.
 
 ## What I'm Building
 
