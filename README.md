@@ -22,7 +22,7 @@ See the [CFRPF repository](https://github.com/JNewbrey87/CFRPF) for more detail.
 | Repository | Focus | Status |
 |---|---|---|
 | [CFRPF](https://github.com/JNewbrey87/CFRPF) | Cloud forensics framework; 38-principle architecture for AI auditability, evidentiary integrity, and forensic readiness in distributed cloud systems | Active — pending publication |
-| [cloud-security-lab-notes](https://github.com/JNewbrey87/cloud-security-lab-notes) | KQL queries, Sentinel analytic rules, Azure Policy, GRC lab assessments, and retrospective write-ups tracing a 10-year career arc into cloud security | Active — continuously updated |
+| [cloud-security-lab-notes](https://github.com/JNewbrey87/cloud-security-lab-notes) | KQL queries, Wazuh detection rules, Sentinel analytic rules, Azure Policy, GRC lab assessments, and retrospective write-ups tracing a 10-year career arc into cloud security | Active — continuously updated |
 
 ## Connect
 
