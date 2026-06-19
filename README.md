@@ -1,6 +1,6 @@
 # Joshua E. Newbrey<br>
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-Active-brightgreen?style=flat-square)
-![CySA+](https://img.shields.io/badge/CySA%2B-Active-brightgreen?style=flat-square)
+![Sec+](https://img.shields.io/badge/Sec%2B-Active-brightgreen?style=flat-square)
+![CySA+](https://img.shields.io/badge/CySA%2B-In_Progress-blue?style=flat-square)
 ![SC-200](https://img.shields.io/badge/SC--200-Planned-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
 ![SC-500](https://img.shields.io/badge/SC--500-Planned-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
 
